@@ -2,6 +2,8 @@
 
 Youtube Link : https://youtu.be/RnNzFlIPZ2E
 
+<h6> Edify is a decentralized student loan protocol where students can participate as depositors or borrowers. student or university can  provide liquidity to the lending pool of that university to earn a passive income, while students are able to borrow </h6>
+
 ## Protocol working
 
 <img src = protocolworking.png>

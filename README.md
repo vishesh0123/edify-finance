@@ -2,6 +2,8 @@
 
 Youtube Link : https://youtu.be/RnNzFlIPZ2E
 
+<h4> UI IS IN DEVELOPMENT !! YOU CAN CONTRIBUTE AND SUBMIT PR <h4>
+
 <h6> Edify is a decentralized student loan protocol where students can participate as depositors or borrowers. student or university can  provide liquidity to the lending pool of that university to earn a passive income, while students are able to borrow </h6>
 
 ## Protocol working
@@ -31,3 +33,4 @@ $ yarn start
 - [React](https://reactjs.org/) - A JavaScript library for building component-based user interfaces
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript
 - [GraphQL](https://graphql.org/) - A query language for APIs
+- [Material Ui](https://mui.com/) - UI library for react

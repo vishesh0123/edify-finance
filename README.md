@@ -21,3 +21,11 @@ $ git clone https://github.com/vishesh0123/edify-finance && cd edify-finance
 $ npm install && yarn install
 $ yarn start
 ```
+
+# The Edify Finance website stack
+
+- [Node.js](https://nodejs.org/)
+- [Yarn package manager](https://yarnpkg.com/cli/install)
+- [React](https://reactjs.org/) - A JavaScript library for building component-based user interfaces
+- [Typescript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript
+- [GraphQL](https://graphql.org/) - A query language for APIs

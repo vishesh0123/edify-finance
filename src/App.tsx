@@ -8,6 +8,7 @@ import Registration from "./components/Registration";
 import Navbar from "./components/Navbar";
 import Landing from "./components/Landing";
 import Student from "./components/Student";
+import Dapp from "./components/Dapp";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Landing />} />
         <Route path="register" element={<Registration />} />
         <Route path="student" element={<Student />} />
+        <Route path="dapp" element={<Dapp />} />
       </Routes>
     </>
   );
